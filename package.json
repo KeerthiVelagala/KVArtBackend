@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-   "engines": {
+  "engines": {
     "node": "20.x"
   },
   "scripts": {
@@ -20,6 +20,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
+    "mongodb": "^7.2.0",
     "mongoose": "^9.6.2",
     "razorpay": "^2.9.6",
     "uuid": "^8.3.2"
